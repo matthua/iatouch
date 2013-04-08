@@ -1,0 +1,35 @@
+/* Opera */
+html:first-child #opera
+{
+display: block;
+}
+/* IE 7 */
+html > body #ie7
+{
+*display: block;
+}
+/* IE 6 */
+body #ie6
+{
+_display: block;
+}
+/* Firefox 1 - 2 */
+body:empty #firefox12
+{
+display: block;
+}
+/* Firefox */
+@-moz-document url-prefix()
+{
+#firefox { display: block; }
+}
+/* Safari */
+@media screen and (-webkit-min-device-pixel-ratio:0)
+{
+#safari { display: block; }
+}
+/* Opera */
+@media all and (-webkit-min-device-pixel-ratio:10000), not all and (-webkit-min-device-pixel-ratio:0)
+{
+head~body #opera { display: block; }
+}
