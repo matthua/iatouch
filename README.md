@@ -9,21 +9,21 @@
 <meta name="google-site-verification" content="YVq3Ol3kGXzu7RlbMdQKQWwPYoVUh9UqMGjgb9JndXA" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>iaTouch互动展示系统 - 青岛海晏文津</title>
-<link href="style.css" rel="stylesheet" type="text/css" />
-<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<link href="http://www.iatouch.com/style.css" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="http://www.iatouch.com/favicon.ico" type="image/x-icon" />
 </head>
 <body>
 <div class="main">
   <div class="header">
     <div class="block_header">
-      <div class="logo"><a href="index.html"><img src="images/logo.jpg" width="220" height="50" border="0" alt="iaTouch互动展示系统" /></a></div>
+      <div class="logo"><a href="http://www.iatouch.com/index.html"><img src="http://www.iatouch.com/images/logo.jpg" width="220" height="50" border="0" alt="iaTouch互动展示系统" /></a></div>
       <div class="haiyan"><a href="http://www.haiyandg.com/" title="海晏文津" target="_blank">海晏文津旗下网站</a></div>
       <div class="clr"></div>
     </div>
   </div>
      <div class="header_text_java_bg">
     <div class="header_text_java">
-  <div class="flash-wrap">
+	<div class="flash-wrap">
 	    <div class="flash-content">            
 	    <ul class="scroll-content">
 		<li id="slidera" title="iPad互动展示系统"></li>
@@ -49,7 +49,7 @@
 	<div class="FBG_resize ipad">
         <ul>
         <li class="lefts" id="ipad"><h2 id="ipad"><span style="color: #2391E8;">一站式服务</span></h2>
-       <img src="images/ipad_1.jpg" alt="一站式服务" width="285" height="120" />
+       <img src="http://www.iatouch.com/images/ipad_1.jpg" alt="一站式服务" width="285" height="120" />
         <p>从方案策划、界面设计、三维制作到互动实现，我们为您提供统一服务，省时省心。</p>
 		<ul>
 		 <li>方案策划</li>
@@ -60,7 +60,7 @@
 		</ul>
         </li>
         <li class="rights" id="ipad"><h2><span style="color: #2391E8;">跨平台展示</span></h2>   
-       <img src="images/ipad_2.jpg" alt="跨平台展示" width="285" height="120" />	  
+       <img src="http://www.iatouch.com/images/ipad_2.jpg" alt="跨平台展示" width="285" height="120" />	  
         <p>一次制作，可在iPad、Android、Windows三大平台同时发布，节省开发成本。</p>    
         <ul>
 		 <li>iPad、iPad mini等iOS设备</li>
@@ -70,7 +70,7 @@
 		</ul>		
         </li>        
         <li class="rights" id="ipad"><h2><span style="color: #2391E8;">楼盘实时销控系统</span></h2> 
-       <img src="images/ipad_3.jpg" alt="楼盘实时销控系统" width="285" height="120" />		
+       <img src="http://www.iatouch.com/images/ipad_3.jpg" alt="楼盘实时销控系统" width="285" height="120" />		
         <p>实时显示楼盘项目销售情况，通过手机、电脑等随时查看，并可通过后台统一管理、设置。</p> 
         <ul>
 		 <li>UI界面设计</li>
@@ -112,7 +112,7 @@
 	<div class="iPadCapture">
 	<ul>
 	<li>
-	<img src="images/iPad_district.jpg" alt="iPad售楼系统：区位价值" width="487" height="300" />
+	<img src="http://www.iatouch.com/images/iPad_district.jpg" alt="iPad售楼系统：区位价值" width="487" height="300" />
 	</li>
 	<li>
 	<h2>清晰详细的区位分析</h2>
@@ -126,13 +126,13 @@
 	<p>电子沙盘包含项目鸟瞰的楼座及对应楼号，并显示3D单体楼及所含的3D户型空间结构、户型平面和室内漫游，为用户提供项目 → 单体 → 楼层 → 户型的全流程展示。</p>
 	</li>
 	<li>
-	<img src="images/iPad_sand.jpg" alt="iPad售楼系统：电子沙盘" width="487" height="300" />
+	<img src="http://www.iatouch.com/images/iPad_sand.jpg" alt="iPad售楼系统：电子沙盘" width="487" height="300" />
 	</li>	
 	</ul>
 	<div class="works_space"></div>
 	<ul>
 	<li>
-	<img src="images/iPad_house.jpg" alt="iPad售楼系统：三维户型" width="487" height="300" />
+	<img src="http://www.iatouch.com/images/iPad_house.jpg" alt="iPad售楼系统：三维户型" width="487" height="300" />
 	</li>
 	<li>
 	<h2>全方位呈现的三维户型</h2>
@@ -146,13 +146,13 @@
 	<p>运用3D虚拟，模拟客户在项目中行走并一路观赏，将项目的景观价值化为真实体验，展示项目最美的一面。</p>
 	</li>
 	<li>
-	<img src="images/iPad_scene.jpg" alt="iPad售楼系统：景观漫游" width="487" height="300" />
+	<img src="http://www.iatouch.com/images/iPad_scene.jpg" alt="iPad售楼系统：景观漫游" width="487" height="300" />
 	</li>	
 	</ul>
 	<div class="works_space"></div>
 	<ul>
 	<li>
-	<img src="images/iPad_video.jpg" alt="iPad售楼系统：三维动画" width="487" height="300" />
+	<img src="http://www.iatouch.com/images/iPad_video.jpg" alt="iPad售楼系统：三维动画" width="487" height="300" />
 	</li>
 	<li>
 	<h2>高品质的三维动画</h2>
@@ -166,7 +166,7 @@
 	<p>通过网络实时显示楼盘销售状况，并可以通过各种移动设备随时查看和管理，移动办公极大提高工作效率，为您节省宝贵的时间。</p>
 	</li>
 	<li>
-	<img src="images/iPad_xiaokong.jpg" alt="iPad售楼系统：实时销控系统" width="487" height="300" />
+	<img src="http://www.iatouch.com/images/iPad_xiaokong.jpg" alt="iPad售楼系统：实时销控系统" width="487" height="300" />
 	</li>	
 	</ul>	
 	</div>
@@ -176,19 +176,19 @@
       <h2><a href="http://www.haiyandg.com/svsia-works.html" title="iaTouch互动展示案例" target="_blank">iaTouch互动展示案例</a></h2>
       <ul>
         <li>
-		<a href="http://www.haiyandg.com/works_detail/7080.html" target="_blank"><img src="works_detail/images_works/7080.jpg" alt="7080中心广场iPad售楼系统" width="200" height="100" /></a>
+		<a href="http://www.haiyandg.com/works_detail/7080.html" target="_blank"><img src="http://www.iatouch.com/works_detail/images_works/7080.jpg" alt="7080中心广场iPad售楼系统" width="200" height="100" /></a>
           <p><a href="http://www.haiyandg.com/works_detail/7080.html" target="_blank">7080中心广场iPad售楼系统</a></p>
         </li>
         <li class="rights">
-		<a href="http://www.haiyandg.com/works_detail/qiyue.html" target="_blank"><img src="works_detail/images_works/qiyue.jpg" alt="齐悦国际iPad售楼系统" width="200" height="100" /></a>
+		<a href="http://www.haiyandg.com/works_detail/qiyue.html" target="_blank"><img src="http://www.iatouch.com/works_detail/images_works/qiyue.jpg" alt="齐悦国际iPad售楼系统" width="200" height="100" /></a>
           <p><a href="http://www.haiyandg.com/works_detail/qiyue.html" target="_blank">齐悦国际iPad售楼系统</a></p>
         </li>
         <li class="rights">
-		<a href="http://www.haiyandg.com/works_detail/baijinhan.html" target="_blank"><img src="works_detail/images_works/baijinhan.jpg" alt="白金翰宫iPad售楼系统" width="200" height="100" /></a>
+		<a href="http://www.haiyandg.com/works_detail/baijinhan.html" target="_blank"><img src="http://www.iatouch.com/works_detail/images_works/baijinhan.jpg" alt="白金翰宫iPad售楼系统" width="200" height="100" /></a>
           <p><a href="works_detail/baijinhan.html" target="_blank">白金翰宫iPad售楼系统</a></p>
         </li>
         <li class="rights">
-		<a href="http://www.haiyandg.com/works_detail/yueliangwan.html" target="_blank"><img src="works_detail/images_works/yueliangwan.jpg" alt="青岛月亮湾iPad互动展示系统" width="200" height="100" /></a>
+		<a href="http://www.haiyandg.com/works_detail/yueliangwan.html" target="_blank"><img src="http://www.iatouch.com/works_detail/images_works/yueliangwan.jpg" alt="青岛月亮湾iPad互动展示系统" width="200" height="100" /></a>
           <p><a href="http://www.haiyandg.com/works_detail/yueliangwan.html" target="_blank">月亮湾iPad互动展示系统</a></p>
         </li>
       </ul>
